@@ -1,6 +1,6 @@
 import { Search, Bell, TrendingDown, LandmarkIcon, Goal, Droplet, Film, ForkKnife, ShoppingBag } from "lucide-react";
 import ExpenseSmryCard from "./ui/ExpenseSmryCard";
-import ListitemCard from "./ui/ListItemCard";
+import ListitemCard from "./ui/ListitemCard";
 import AccountCard from "./ui/AccountCard";
 import Payments from "./ui/Payments";
 
